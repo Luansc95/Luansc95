@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Luan Souza de Carvalho, tenho 29 anos e sou natural do Rio de Janeiro. Concluí o ensino médio no ICT, com o curso técnico em Mecatrônica. Atualmente, estou cursando Engenharia de Software na Faculdade Descomplica. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu LinkedIn "[Luan Souza](https://www.linkedin.com/in/luansc95/)", e também através do Instagram "[Luan Carvalho](https://www.instagram.com/luansc1995/)".
+Me chamo Luan Souza de Carvalho, tenho 29 anos e sou natural do Rio de Janeiro. Concluí o ensino médio no ICT, com o curso técnico em Mecatrônica. Atualmente, estou cursando Engenharia de Software na Faculdade Descomplica. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu LinkedIn "[Luan Carvalho](https://www.linkedin.com/in/luansc95/)", e também através do Instagram "[Luan Carvalho](https://www.instagram.com/luansc1995/)".
 
 
 ---
@@ -67,7 +67,7 @@ Me chamo Luan Souza de Carvalho, tenho 29 anos e sou natural do Rio de Janeiro. 
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="100" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luansc95&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
